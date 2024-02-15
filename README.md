@@ -1,4 +1,5 @@
-### neural_networks:
+### Homework neural_networks:
 
-*   lesson1 - Homework обучение нейросети MLPClassifier от sklearn.
-*   lesson2 - Homework обучение нейросети от Keras.
+*   lesson1 - обучение нейросети MLPClassifier от sklearn.
+*   lesson2 - обучение нейросети от Keras.
+*   lesson3 - обучение нейросети от TensorFlow.
