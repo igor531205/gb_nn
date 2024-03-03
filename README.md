@@ -4,3 +4,4 @@
 *   lesson2 - обучение нейросети от Keras.
 *   lesson3 - обучение нейросети от TensorFlow.
 *   lesson4 - обучение нейросети GPT2.
+*   lesson5 - обучение нейросети KerasCV for Object Detection.
