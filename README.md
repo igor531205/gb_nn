@@ -1,7 +1,8 @@
 ### Homework neural_networks:
 
-*   lesson1 - обучение нейросети MLPClassifier от sklearn.
-*   lesson2 - обучение нейросети от Keras.
-*   lesson3 - обучение нейросети от TensorFlow.
-*   lesson4 - обучение нейросети GPT2.
-*   lesson5 - обучение нейросети KerasCV for Object Detection.
+*   lesson1 - MLPClassifier от sklearn.
+*   lesson2 - Keras.
+*   lesson3 - TensorFlow.
+*   lesson4 - GPT2.
+*   lesson5 - Object Detection.
+*   lesson6 - Stable Diffusion.
